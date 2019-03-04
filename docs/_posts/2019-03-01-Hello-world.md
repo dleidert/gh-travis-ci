@@ -11,8 +11,6 @@ Hello world
 
 SSL-Link <https://www.wgdd.de>
 
-NonSSL-Link <http://bluefish.openoffice.nl>
-
 NonSSL-Link with `data-proofer-ignore` <http://bluefish.openoffice.nl>{: data-proofer-ignore='true'}
 
 ```YAML
